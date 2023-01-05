@@ -19,6 +19,18 @@
     color: #FFFFFF;
 
 }
+.btn-secondary{
+    font-weight: 700;
+    height: 64px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 18px 35px;
+    font-weight: 700;
+    font-size: 20px;
+    background: none;
+    color: #FD6E0A;
+    margin-left: 30px;
+}
 
 .header {
     background-color: #FFF8F3;
